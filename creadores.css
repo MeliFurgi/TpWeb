@@ -1,0 +1,100 @@
+hr{color: white;
+    text-align: center;
+   
+}
+h1{color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+h2{color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+}
+.cajatarjetas{  display: flex;
+    justify-content: center;
+}
+.tarjetas { display: flex;
+    width: 600px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 5%;
+}
+.nombre{ font-size: 25px;
+   color: white;
+    text-align: center;
+    font-family: 'open sans';
+}
+.infocyn{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'open sans';
+} 
+.hr{color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cajaTarjetas { display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.productores{color: white;
+    text-align: center;
+    font-family: 'open sans';
+    font-size: 20px;
+   margin: 2.5%;
+}
+.productores2{width: 15%;}
+.ryc{ color: white;
+    text-align: center;
+    font-family: 'franklin gothic medium';
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.cajacontenido {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.contenedores {
+    width: 50%;
+    margin: 10px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(78, 90, 78);
+    box-shadow: 0px 0px 10px;
+}
+
+.titulo{ color: white;
+    font-family: 'franklin gothic medium';
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+.info { color: white;
+    font-family: 'open sans';
+    font-size: 18px;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+.info2 { color: white;
+     font-family: 'open sans';
+    font-size: 18px;
+    display: flex;
+    margin: 5%;
+    margin-top: 20px;
+    text-align: justify;
+    gap: 40px;
+}
+

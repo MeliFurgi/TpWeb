@@ -1,0 +1,178 @@
+.menu a{
+     padding: 10px;
+    color: white;           
+    text-decoration: none;  
+    margin: 0 20px;         
+    display: inline-block;  
+    background-color: #2e332c;
+    border-radius: 40px; 
+}
+
+h1{color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+}
+.temporada1{color: white;
+font-family: 'open sans';
+font-size: 25px;
+margin-left:5%;
+margin-top: 5%;
+}
+.sinopsis{color: white;
+font-family: 'open sans' ; 
+font-size: 20px;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 50px;
+text-align: justify;
+}
+.liquid-glass {
+  width: 900px;
+  height: 180px;
+  border-radius: 40px;
+  position: relative;
+  isolation: isolate;
+  box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 2.5%;
+  text-decoration: none;
+  cursor: pointer;
+}
+.liquid-glass:hover {
+    background-color: rgb(62, 71, 62);
+}
+.liquid-glass:focus {
+  outline: none;
+}
+
+.liquid-glass::before { 
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: 40px;
+  box-shadow: inset 0 0 15px -2px #4f5a4f;
+  background-color: rgba(79, 90, 79, 0.4);
+}
+
+.liquid-glass::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: 40px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  filter: url(#glass-distortion);
+  -webkit-filter: url(#glass-distortion);
+}
+.glass-img {
+    position: absolute;
+    top: 15%;
+    left: 2.5%;
+    width: 20%;
+    border-radius: 20px; 
+}
+.glass-text {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  opacity: 1;
+  font-family: 'open sans';
+}
+.glass-text2 {
+  position: absolute;
+  top: 40%;     
+  left: 25%;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  opacity: 1;
+  font-family: 'open sans';
+}
+.episodios {
+  display: flex;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-top: -50px;
+  }
+.especial{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.hr{color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -60px;
+    margin-bottom: 80px;
+}
+.tlous{display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: -40px;
+margin-bottom: 100px;
+width: 80%;
+}
+.imgtlou {display: block;
+margin-left: 50px;
+margin-top: 80px;
+margin-bottom: -25%;
+border-radius: 20px; 
+}
+.cajatarjetas {
+    display: flex;
+    justify-content: center
+}
+.tarjetas {
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+}
+.inicio{color: white;
+font-size: 18px;
+font-family: 'open sans';
+margin-left: 700px;
+}
+.info{color: white;
+font-size: 18px;
+font-family: 'open sans';
+text-align: justify;
+margin-left: 700px;
+margin-right: 50px;
+margin-top: -10px;
+}
+.hinchado{display: block;
+margin-left: 50px;
+margin-top: 80px;
+margin-bottom: -2%;
+border-radius: 20px; 
+}
+.curiosidades{color: white;
+    font-family: 'open sans';
+font-size: 20px;
+margin-left: 700px;
+margin-top: -400px;
+}
+.hr2{color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 8%;
+    margin-bottom: 80px;
+}
+

@@ -1,0 +1,137 @@
+body{ margin: 0;
+    background-color: #1c201a;
+    background-image: url(img/Fondo.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+img{  display: block;
+    margin-left: auto;
+    margin-right: auto;
+     margin-bottom: 30px;
+}
+.menu {
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    display: flex;
+    padding: auto;
+    justify-content: center;
+}
+.menu a:hover {
+    color: #607059;
+    }
+.menu a{
+    padding: 10px;
+    color: white;           
+    text-decoration: none;  
+    margin: 0 20px;         
+    display: inline-block;  
+    background-color: #2e332c;
+    border-radius: 40px;
+}
+h1{color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+h2{color: white;
+    text-align: center;
+    font-family:'franklin gothic medium';
+    font-size: 25px;
+    display: flex;
+    padding-top: 20px;
+    padding: auto;
+    justify-content: center;
+
+}
+.primero {color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+h3{color: white;
+    text-align: center;
+    font-family: open sans;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    justify-content: center;
+}
+.sinopsis{color: white;
+    text-align: center;
+    font-family: 'open sans';
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.sinopsis2{color: white;
+    text-align: center;
+    font-family: 'open sans';
+    font-size: 20px;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+}
+.informacion{color: white;
+    text-align: left;
+    font-family: 'open sans';
+    font-size: 25px;
+   padding-left: 5%;
+}
+.informacion2{color: white;
+    text-align: left;
+    font-family: 'open sans';
+    font-size: 20px;
+     display: flex;
+    padding-left: 5%;
+    padding-right: 30%;
+}
+.imagen{ margin-left: 70%;
+    margin-top: -23%;
+}
+
+.imagen2{ margin-left: 70%;
+    margin-top: -26%;
+}
+.locaciones{color: white;
+    text-align: left;
+    font-family: 'open sans';
+    font-size: 25px;
+    padding-top: 5%;
+   padding-left: 5%;
+}
+.locaciones2{color: white;
+    text-align: left;
+    font-family: 'open sans';
+    font-size: 20px;
+     display: flex;
+    padding-left: 5%;
+    padding-right: 30%;
+   }
+.cierre{color: white;
+    text-align: center;
+    font-family: 'franklin gothic medium';
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 60px;}
+
+.redes {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  gap: 80px;                
+  margin-top: 20px;
+}
+
+.redes img {
+  width: 60px;
+  height: auto;
+margin-bottom: 50px;
+}

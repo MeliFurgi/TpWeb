@@ -1,0 +1,195 @@
+h1{color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic';
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.cajatarjetas {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+.tarjetas {
+    width: 50%;
+    margin: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(78, 90, 78);
+    box-shadow: 0px 0px 10px;
+}
+.tarjetas:hover {
+    background-color: rgb(62, 71, 62);
+}
+.pedrop{color: white;
+    text-align: center;
+    font-family: 'open sans';
+    font-size: 25px;
+    display: flex;
+    padding: auto;
+    justify-content: center;
+}
+.repartopedro{color: white;
+    text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+     display: flex;
+    margin-left: 25px;
+    margin-right: 25px
+}
+.bellar{color: white;
+    text-align: center;
+    font-family: 'open sans';
+    font-size: 25px;
+    display: flex;
+    padding: auto;
+    justify-content: center;
+}
+.repartobella{color: white;
+    text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    display: flex; 
+    margin-left: 25px;
+    margin-right: 25px
+}
+.cajatarjetas2 {
+    display: inline;
+    justify-content: space-between;
+}
+.tarjetas2 {
+    width:fit-content;
+    margin: 40px;
+   border-radius: 20px;
+    overflow: hidden;
+    padding-left: 25px;
+    background-color: rgb(78, 90, 78);
+    box-shadow: 0px 0px 10px;
+}
+.gabriel{  float: left;
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    padding: auto;
+    justify-content: left;
+}
+.gabrielluna{color: white;
+    font-family: 'open sans';
+    font-size: 25px;
+    text-align: center;
+}
+.repartogabriel{color: white;
+    text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 25px;
+}
+.isabela{  float: left;
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    padding: auto;
+    justify-content: left;
+}
+.isabelamerced{color: white;
+    font-family: 'open sans';
+    font-size: 25px;
+    text-align: center;
+}
+.repartoisabela{color: white;
+     text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 25px;
+}
+.kaitlyn{  float: left;
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    padding: auto;
+    justify-content: left;
+}
+.kaitlynd{color: white;
+     font-family: 'open sans';
+    font-size: 25px;
+    text-align: center;
+}
+.repartokaitlyn{color: white;
+     text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 25px;
+}
+.young{  float: left;
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    padding: auto;
+    justify-content: left;
+}
+.youngmazino{color: white;
+     font-family: 'open sans';
+    font-size: 25px;
+    text-align: center;
+}
+.repartoyoung{color: white;
+    text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 25px;
+}
+.rutina{float: left;
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    padding: auto;
+    justify-content: left;
+}
+.rutinawesley{color: white;
+     font-family: 'open sans';
+    font-size: 25px;
+    text-align: center;
+}
+.repartorutina{color: white;
+     text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 25px;
+}
+.spencer{float: left;
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    padding: auto;
+    justify-content: left;
+}
+.spencerlord{color: white;
+     font-family: 'open sans';
+    font-size: 25px;
+    text-align: center;
+}   
+.repartospencer{color: white;
+     text-align: justify;
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 25px;
+}
+.primero {color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
