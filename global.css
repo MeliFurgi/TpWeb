@@ -151,13 +151,18 @@ h3{color: white;
     font-size: 16px;
 }
 #error { margin-left: 100px;
-    margin-top: -120px;
+    margin-top: -80px;
     font-family: 'franklin gothic medium';
     font-size: 126px;
 }
-#iniciof2 { margin-left: 980px;
+#iniciof2 { margin-left: 50%;
     font-family: 'franklin gothic medium';
     font-size: 20px;
+    background-color: #607059;
+    border-radius: 10px;
+    padding: 20px;
+    a{ color: white; 
+    text-decoration: none;}
 }
 .botones { display: inline-block;
     margin-left: 150px;
