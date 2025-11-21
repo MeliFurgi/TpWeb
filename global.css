@@ -48,6 +48,14 @@ h2{color: white;
     justify-content: center;
 
 }
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
 .primero {color: white;
     text-align: center;
     margin-left: 100px;
@@ -120,8 +128,54 @@ h3{color: white;
     font-family: 'franklin gothic medium';
     font-size: 25px;
     margin-top: 50px;
-    margin-bottom: 60px;}
-
+    margin-bottom: 60px;
+}
+.formulario { display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 40px;
+    margin-top: -7.2%;
+    color: white;
+    width: 50%;
+    max-width: 1000px;
+    font-family: 'franklin gothic medium';
+    font-size: 16px;
+}
+#felicidades { margin: 20%
+}
+#iniciof { margin-left: 550px;
+    margin-top: 20px;
+    font-family: 'franklin gothic medium';
+    font-size: 16px;
+}
+#error { margin-left: 100px;
+    margin-top: -120px;
+    font-family: 'franklin gothic medium';
+    font-size: 126px;
+}
+#iniciof2 { margin-left: 980px;
+    font-family: 'franklin gothic medium';
+    font-size: 20px;
+}
+.botones { display: inline-block;
+    margin-left: 150px;
+    font-family: 'franklin gothic medium';
+    font-size: 15px;
+}
+.datos {
+    margin-bottom: 10px;
+    font-family: 'franklin gothic medium';
+    font-size: 16px;
+}
+.submit { display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-family: 'franklin gothic medium';
+    font-size: 16px;
+}
 .redes {
   display: flex;
   justify-content: center; 
